@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppProfilea</string>
+    <string-array name="gender_list">
+        <item>Pilih Kelamin</item>
+        <item>Laki-Laki</item>
+        <item>Perempuan</item>
+    </string-array>
+</resources>
